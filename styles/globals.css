@@ -1,0 +1,36 @@
+*{
+  background-color: lightgrey;
+  
+}
+ 
+p{
+  font-size:20px
+}
+
+.navbar{
+ font-size: 30px;
+  margin:20px;
+  padding: 20px;
+  justify-content: center;  
+  text-align: center;
+  border-bottom: 1px solid
+}
+a{
+  color: lightcoral;
+  padding: 20px;
+  margin: 20px;
+  text-decoration-color: none;
+  transition:  0.2 ease-in;
+}
+a:hover{
+color: white;
+text-decoration: underline;
+}
+
+.heading1{
+  justify-content: center;
+  text-align: center;
+}
+.image1{
+  justify-content: center;
+}
